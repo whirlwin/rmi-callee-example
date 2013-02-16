@@ -2,4 +2,4 @@
 
 ---
 
-For the tutorial, visit (foo)[bar].
+For the tutorial, visit [foo](bar).
