@@ -1,4 +1,4 @@
-# RMI Callee
+# RMI Callee Example
 
 ---
 
